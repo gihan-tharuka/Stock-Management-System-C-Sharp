@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Stock-Management-System-C-Sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|d:\\c#\\stock-management-system-c-sharp\\stockmanagementsoftware\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|solutionrelative:stockmanagementsoftware\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|d:\\c#\\stock-management-system-c-sharp\\stockmanagementsoftware\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|solutionrelative:stockmanagementsoftware\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|d:\\c#\\stock-management-system-c-sharp\\stockmanagementsoftware\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|solutionrelative:stockmanagementsoftware\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|d:\\c#\\stock-management-system-c-sharp\\stockmanagementsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|solutionrelative:stockmanagementsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|d:\\c#\\stock-management-system-c-sharp\\stockmanagementsoftware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|solutionrelative:stockmanagementsoftware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|d:\\c#\\stock-management-system-c-sharp\\stockmanagementsoftware\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|solutionrelative:stockmanagementsoftware\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|d:\\c#\\stock-management-system-c-sharp\\stockmanagementsoftware\\addnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BDCD87F-F472-40C1-A7C2-B6106541C921}|StockManagementSoftware\\StockManagementSoftware.csproj|solutionrelative:stockmanagementsoftware\\addnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Administrator.cs",
+              "RelativeDocumentMoniker": "StockManagementSoftware\\Administrator.cs",
+              "ToolTip": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Administrator.cs",
+              "RelativeToolTip": "StockManagementSoftware\\Administrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:59.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\App.config",
+              "RelativeDocumentMoniker": "StockManagementSoftware\\App.config",
+              "ToolTip": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\App.config",
+              "RelativeToolTip": "StockManagementSoftware\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-27T06:23:58.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Program.cs",
+              "RelativeDocumentMoniker": "StockManagementSoftware\\Program.cs",
+              "ToolTip": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Program.cs",
+              "RelativeToolTip": "StockManagementSoftware\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:49.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Form1.cs",
+              "RelativeDocumentMoniker": "StockManagementSoftware\\Form1.cs",
+              "ToolTip": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Form1.cs [Design]",
+              "RelativeToolTip": "StockManagementSoftware\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:42.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "StockManagementSoftware\\Login.Designer.cs",
+              "ToolTip": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Login.Designer.cs",
+              "RelativeToolTip": "StockManagementSoftware\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddNewItem.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\AddNewItem.cs",
+              "RelativeDocumentMoniker": "StockManagementSoftware\\AddNewItem.cs",
+              "ToolTip": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\AddNewItem.cs [Design]",
+              "RelativeToolTip": "StockManagementSoftware\\AddNewItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:13.471Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Login.cs",
+              "RelativeDocumentMoniker": "StockManagementSoftware\\Login.cs",
+              "ToolTip": "D:\\C#\\Stock-Management-System-C-Sharp\\StockManagementSoftware\\Login.cs [Design]",
+              "RelativeToolTip": "StockManagementSoftware\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:22:30.901Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
